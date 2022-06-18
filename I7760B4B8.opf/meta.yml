@@ -1,0 +1,40 @@
+id: I7760B4B8
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:00:59.591971'
+last_modified: '2022-06-19T01:00:59.591985'
+parser: null
+source_metadata:
+  title: rDo rje gdans Seasonal Ritual Practice and Its Textual Foundation
+  author: mi gsal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-03-28); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre (INTERNAL); This text edition is in progress
+    and only intended for SRC internal usage. It should not be further distributed
+    at this present
+
+    stage. (src)'
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/908
+  bases:
+    8f6d:
+      title: rDo rje gdans Seasonal Ritual Practice and Its Textual Foundation
+      order: 1
+      base_file: 8f6d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
